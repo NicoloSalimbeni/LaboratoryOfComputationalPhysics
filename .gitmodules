@@ -1,0 +1,3 @@
+[submodule "muon_production_project"]
+	path = muon_production_project
+	url = git@github.com:NicoloSalimbeni/muon_production_project.git
